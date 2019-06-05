@@ -1,6 +1,6 @@
 # flutter calculator
 
-Simple calculator app created in flutter
+Simple calculator app created in flutter using MVP architecture (Model not used)
 
 ## Getting Started
 
